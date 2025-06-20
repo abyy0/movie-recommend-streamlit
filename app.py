@@ -47,7 +47,7 @@ h1 {
 """, unsafe_allow_html=True)
 
 # ✅ Show animated movie banner
-lottie_movie = load_lottie_url("https://assets3.lottiefiles.com/packages/lf20_LkK1Xk.json")
+lottie_movie = load_lottie_url("https://assets8.lottiefiles.com/packages/lf20_j1adxtyb.json")
 st_lottie(lottie_movie, height=200)
 
 # ✅ Title
